@@ -13,7 +13,7 @@ This code will potentially show a clear visualization of the population generate
 
 The main framework is specified with the following diagram:
 
-![Captura de pantalla 2023-05-30 212441](https://github.com/oliviadomingo/LAB1_PCC/assets/132483603/0f41f451-f3fe-4b68-9a82-6cb13b64a268)
+![image](https://github.com/oliviadomingo/LAB1_PCC/assets/132483603/0449a174-17a9-4626-9c6f-2cc545bd809d)
 
 Bibliography (with DOI):
 
