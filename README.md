@@ -19,5 +19,7 @@ Bibliography (with DOI):
 
 [1] Lee, W., & Kim, H. Y. (2005, July). Genetic algorithm implementation in Python. In Fourth Annual ACIS International Conference on Computer and Information Science (ICIS'05) (pp. 8-11). IEEE. 
 
-[2] Ferro, D., van Kempen, J., Boyd, M., Panzeri, S., & Thiele, A. (2021). Directe
+[2] Katoch, S., Chauhan, S.S. & Kumar, V. A review on genetic algorithm: past, present, and future. Multimed Tools Appl 80, 8091–8126 (2021). https://doi.org/10.1007/s11042-020-10139-6
+
+[3] Whitley, D. A genetic algorithm tutorial. Stat Comput 4, 65–85 (1994). https://doi.org/10.1007/BF00175354
 
